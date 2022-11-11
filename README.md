@@ -31,13 +31,11 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 - Test : 1800
 - 한 사람당 사진의 개수: 7 [마스크 착용 5장, 이상하게 착용(코스크, 턱스크) 1장, 미착용 1장]
 - 이미지 크기: (384, 512)
-
-<img src="https://user-images.githubusercontent.com/68593821/131881060-c6d16a84-1138-4a28-b273-418ea487548d.png" height="500"/>
-
 <br>
 
 ## Objective
 성별, 연령, 마스크 착용 여부에 따라 사진을 총 18개의 클래스로 분류
+<img src="https://user-images.githubusercontent.com/68593821/131881060-c6d16a84-1138-4a28-b273-418ea487548d.png" height="500"/>
 
 <br>
 
