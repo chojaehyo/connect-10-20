@@ -5,35 +5,19 @@
 <table>
   <tr height="125px">
     <td align="center" width="120px">
+      <a href="https://github.com/Jejugamguel">김종해_T4047</a>
     </td>
     <td align="center" width="120px">
-      
+      <a href="https://github.com/youngjun04">유영준_T4136</a>
     </td>
     <td align="center" width="120px">
-      
+      <a href="https://github.com/thlee00">이태희_T4172</a>
     </td>
     <td align="center" width="120px">
-      
+      <a href="https://github.com/chojaehyo">조재효_T4214</a>
     </td>
     <td align="center" width="120px">
-      
-    </td>
-  </tr>
-  <tr height="70px">
-    <td align="center" width="120px">
-      <a href="https://github.com/ed-kyu"></a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/GwonPyo"></a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/seonahmin"></a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/ysw2946"></a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/Dongwoo-Im"></a>
+      <a href="https://github.com/jphan32">한상준_T4226</a>
     </td>
   </tr>
 </table>
