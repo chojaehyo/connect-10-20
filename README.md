@@ -5,19 +5,18 @@
 <table>
   <tr height="125px">
     <td align="center" width="120px">
-      <a href="https://github.com/ed-kyu"><img src="https://avatars.githubusercontent.com/ed-kyu"/></a>
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com/GwonPyo"><img src="https://avatars.githubusercontent.com/GwonPyo"/></a>
+      
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com/seonahmin"><img src="https://avatars.githubusercontent.com/seonahmin"/></a>
+      
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com/ysw2946"><img src="https://avatars.githubusercontent.com/ysw2946"/></a>
+      
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com/Dongwoo-Im"><img src="https://avatars.githubusercontent.com/Dongwoo-Im"/></a>
+      
     </td>
   </tr>
   <tr height="70px">
