@@ -33,7 +33,7 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 - 이미지 크기: (384, 512)
 
 ![image](https://user-images.githubusercontent.com/59071505/168463193-5399fae7-5d19-4418-b95a-0dad912ee279.png)
-
+<img src="https://user-images.githubusercontent.com/68593821/131881060-c6d16a84-1138-4a28-b273-418ea487548d.png" height="500"/>
 <br>
 
 ## Objective
@@ -43,7 +43,8 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 
 ## 🏆Result
 - Rank : 7등 / 20팀
-- Public_f1 : 0.7521
-- Private_f1 : 81.2540
+- Private_f1 : 0.7521
+- Private_acc : 81.2540
 
 <img width="1085" alt="스크린샷 2022-11-11 오후 1 25 36" src="https://user-images.githubusercontent.com/69153087/201263035-fc44a69f-c35b-4248-8c93-777bfffb1d1f.png">
+
