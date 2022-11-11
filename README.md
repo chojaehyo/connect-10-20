@@ -1,27 +1,9 @@
-# [P stage1 : Image Classification] 일석CV조
+# [P stage1] Image Classification Competition
+
 <img width="1085" alt="스크린샷 2022-11-11 오후 1 13 32" src="https://user-images.githubusercontent.com/69153087/201261752-33f6bb6d-ddd0-46fa-a32b-f510c50e5a89.png">
 
 ## Member 
-<table>
-  <tr height="125px">
-    <td align="center" width="120px">
-      <a href="">김종해_T4047</a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/youngjun04">_</a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/thlee00">_</a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/chojaehyo">_</a>
-    </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/jphan32">_</a>
-    </td>
-  </tr>
-</table>
-
+## 일석CV조(CV-12조)
 **김종해** [T4047] [@Jejugamguel](https://github.com/Jejugamguel) <br/>
 **유영준** [T4136] [@youngjun04](https://github.com/youngjun04) <br/>
 **이태희** [T4172] [@thlee00](https://github.com/thlee00) <br/>
