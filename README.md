@@ -11,6 +11,7 @@
 **조재효** [T4214] [@chojaehyo](https://github.com/chojaehyo) <br/>
 **한상준** [T4226] [@jphan32](https://github.com/jphan32) <br/>
 
+<br>
 
 ## Project Overview
 
@@ -20,6 +21,7 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 
 따라서, **우리는 카메라로 비춰진 사람 얼굴 이미지 만으로 이 사람이 마스크를 쓰고 있는지, 쓰지 않았는지, 정확히 쓴 것이 맞는지 자동으로 가려낼 수 있는 시스템이 필요합니다.** 이 시스템이 공공장소 입구에 갖춰져 있다면 적은 인적자원으로도 충분히 검사가 가능할 것입니다.
 
+<br>
 
 ## 🗂️Dataset
 - Total : 4500
@@ -32,10 +34,12 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 
 ![image](https://user-images.githubusercontent.com/59071505/168463193-5399fae7-5d19-4418-b95a-0dad912ee279.png)
 
+<br>
 
 ## Objective
 성별, 연령, 마스크 착용 여부에 따라 사진을 총 18개의 클래스로 분류
 
+<br>
 
 ## 🏆Result
 - Rank : 7등 / 20팀
