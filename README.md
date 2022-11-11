@@ -45,5 +45,24 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 - Private_f1 : 0.7521
 - Private_acc : 81.2540
 
-<img width="1085" alt="스크린샷 2022-11-11 오후 1 25 36" src="https://user-images.githubusercontent.com/69153087/201263035-fc44a69f-c35b-4248-8c93-777bfffb1d1f.png">
+<img width="1050" alt="스크린샷 2022-11-11 오후 1 25 36" src="https://user-images.githubusercontent.com/69153087/201263035-fc44a69f-c35b-4248-8c93-777bfffb1d1f.png">
 
+<br>
+
+## Milestone
+<img width="642" alt="스크린샷 2022-11-11 오후 2 12 23" src="https://user-images.githubusercontent.com/69153087/201268107-253b75b5-8cd8-403a-ade9-3262fb67f996.png">
+
+- 프로젝트 수행에 대한 과정과 세부 목표 수립
+- Data / Image EDA 을 통해 적합한 모델과 전처리 기법을 고안
+- 다양한 Baseline 모델을 학습하여, 결과 비교를 통해 적합한 모델을 선정
+- 모델의 인식률을 올릴 수 있는 다양한 학습 기법을 적용
+- 최종 결정 모델에 대해 K-Fold를 적용하며, 제출 결과 상위 submission의 Hard Voting 방식의 Ensemble 기법을 적용하여 각 모델 특성의 상호 보완
+
+<br>
+
+
+## Approach
+
+<img width="700" height="500" alt="screen_shot_2022-11-04_at_11 09 00_am" src="https://user-images.githubusercontent.com/69153087/201267655-98896c0f-12bd-47a4-b6a8-82bc1a15e4e8.png">
+
+## 
